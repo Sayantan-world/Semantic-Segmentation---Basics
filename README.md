@@ -3,7 +3,8 @@
 In digital image processing and computer vision, image segmentation is the process of partitioning a digital image into multiple segments. The goal of segmentation is to simplify and/or change the representation of an image into something that is more meaningful and easier to analyze.
 
 Link 1 : https://jovian.ml/sayantan-world98/building-segmentation
-Link 2 : https://jovian.ml/kaustav-me7/building-segmentation
+<br>
+Link 2 : https://jovian.ml/kaustav-me7/building-segmentation (Updated with GPU performance)
 
 ---
 ### Modules Required :
