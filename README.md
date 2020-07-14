@@ -42,3 +42,7 @@ Link 2 : https://jovian.ml/kaustav-me7/building-segmentation
 ![](https://github.com/Sayantan-world/Semantic-Segmentation---Basics/blob/master/images/graph.png?raw=true)
 
 ---
+### Comparison graph of FCN with Resnet101 between CPU and GPU:
+![](https://raw.githubusercontent.com/karnyrocks/Semantic-Segmentation---Basics/master/images/Graph%202.png.PNG)
+
+---
