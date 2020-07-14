@@ -2,7 +2,8 @@
 
 In digital image processing and computer vision, image segmentation is the process of partitioning a digital image into multiple segments. The goal of segmentation is to simplify and/or change the representation of an image into something that is more meaningful and easier to analyze.
 
-Link : https://jovian.ml/sayantan-world98/building-segmentation
+Link 1 : https://jovian.ml/sayantan-world98/building-segmentation
+Link 2 : https://jovian.ml/kaustav-me7/building-segmentation
 
 ---
 ### Modules Required :
@@ -39,5 +40,9 @@ Link : https://jovian.ml/sayantan-world98/building-segmentation
 
 ### Comparison graph between FCN with Resnet101 and DeepLabv3:
 ![](https://github.com/Sayantan-world/Semantic-Segmentation---Basics/blob/master/images/graph.png?raw=true)
+
+---
+### Comparison graph of FCN with Resnet101 between CPU and GPU:
+![](https://raw.githubusercontent.com/karnyrocks/Semantic-Segmentation---Basics/master/images/Graph%202.png.PNG)
 
 ---
